@@ -8,11 +8,11 @@ _Last updated: 2026-10-26_
 
 | Metric | Count |
 |---|---|
-| Pull requests opened | **2** |
+| Pull requests opened | **4** |
 | Merged | 0 |
-| Under review | 2 |
+| Under review | 4 |
 | Issue investigations posted | 1 |
-| Fixes ready locally, awaiting submission | 2 |
+| Fixes ready locally, awaiting submission | 0 |
 | Projects tracked | 10 |
 
 ## Contributions
@@ -22,6 +22,8 @@ _Last updated: 2026-10-26_
 | 2026-10-25 | [Tauri](https://github.com/tauri-apps/tauri) | `tauri dev` stopped watching the whole app when `.taurignore` contained `/*`. Fixed to match `.gitignore` semantics, with a unit test and an end-to-end check | [tauri-apps/tauri#16398](https://github.com/tauri-apps/tauri/pull/16398) (fixes #9163) | 🟡 In review |
 | 2026-10-25 | [PhotoCraft](https://github.com/storytold/photocraft) | Crash-safety: a panic in a command's pre-checks or bookkeeping crashed the app; now caught and reported as an error, with a regression test | [storytold/photocraft#9516](https://github.com/storytold/photocraft/pull/9516) (fixes #8604) | 🟡 In review |
 | 2026-10-25 | [VectorCraft](https://github.com/storytold/vectorcraft) | Root-caused "Offset Path resets 0.1 mm to 1 mm": decimal-comma input is rejected and the field silently keeps its old value. Proposed three fixes for the maintainers to choose from | [comment on #3837](https://github.com/storytold/vectorcraft/issues/3837#issuecomment-6401739771) | 🔵 Awaiting maintainer decision |
+| 2026-10-25 | [Biome](https://github.com/biomejs/biome) | `noUselessEmptyExport` deleted a meaningful `export {}` from `.d.ts` files, leaking private types into the public API. The rule now skips declaration files, matching typescript-eslint; fixtures and changeset included | [biomejs/biome#12684](https://github.com/biomejs/biome/pull/12684) (fixes #8603) | 🟡 In review |
+| 2026-10-25 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Out-of-bounds read in n-gram speculative drafting when the input is shorter than the n-gram size. Bounds check plus a sanitizer-verified regression test | [ggml-org/llama.cpp#31161](https://github.com/ggml-org/llama.cpp/pull/31161) (fixes #30724) | 🟡 In review |
 
 Status key: 🟢 merged · 🟡 in review · 🔵 waiting on maintainers · 🔴 closed
 
@@ -46,7 +48,7 @@ Status key: 🟢 merged · 🟡 in review · 🔵 waiting on maintainers · 🔴
 
 | Horizon | Goal |
 |---|---|
-| **Nov 2026** | First merged PRs in Tauri and PhotoCraft · submit the llama.cpp and Biome fixes · fix VectorCraft #3837 once the maintainers choose an approach |
+| **Nov 2026** | First merged PRs in Tauri and PhotoCraft · submit the llama.cpp and Biome fixes ✅ · fix VectorCraft #3837 once the maintainers choose an approach |
 | **Dec 2026** | First Hugging Face Transformers contribution · an assigned MCP Python SDK issue · first EffectCraft / LightCraft fixes · **8 merged PRs across 5+ projects** |
 | **H1 2027** | **20+ merged PRs** · regular contributor in 2 projects (reviews, triage, repeat fixes) · a feature-level contribution after maintainer discussion |
 
