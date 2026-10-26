@@ -6,10 +6,14 @@
   
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<g transform="translate(6,24)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 04</text></g>
-<text x="94" y="44" font-size="22" font-weight="700" letter-spacing="1" fill="#2B2C30">HOW_I_WORK</text>
-<rect x="250" y="25" width="12" height="22" fill="#F6CD4C" class="blink"/>
-<line x1="278" y1="36" x2="1274" y2="36" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+<g transform="translate(6,19)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 04</text></g>
+<clipPath id="thowiwork9444"><rect x="94.0" y="22.0" width="134.0" height="33.0">
+  <animate attributeName="width" values="0;0.0;13.4;26.8;40.2;53.6;67.0;80.4;93.8;107.2;120.6;134.0" keyTimes="0;0.2500;0.3250;0.4000;0.4750;0.5500;0.6250;0.7000;0.7750;0.8500;0.9250;1.0000" dur="0.60s" begin="0s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="94.0" y="44.0" font-size="22" font-weight="700" fill="#2B2C30" clip-path="url(#thowiwork9444)">HOW_I_WORK</text>
+<rect x="232.0" y="26.4" width="12.1" height="22.0" fill="#F6CD4C" class="blink">
+  <animate attributeName="opacity" values="0;0;1" begin="0s" dur="0.61s" keyTimes="0;0.984;1" fill="freeze"/></rect>
+<line x1="258" y1="36.0" x2="1274" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+  <animate attributeName="x2" values="258;258;1274" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D"></text>
+<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D"></text>
 </svg>

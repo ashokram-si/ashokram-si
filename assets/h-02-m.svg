@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="80" viewBox="0 0 720 80" role="img" aria-label="02 PULL_REQUESTS" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<style>
+  .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  .blink { animation: blink 1.05s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g transform="translate(6,21)"><rect width="84" height="34" rx="4" fill="#F6CD4C"/><text x="9" y="25" font-size="22" font-weight="700" letter-spacing="0" fill="#2B2C30">// 02</text></g>
+<clipPath id="tpullrequests10650"><rect x="106.0" y="24.0" width="204.8" height="39.0">
+  <animate attributeName="width" values="0;0.0;15.8;31.5;47.3;63.0;78.8;94.5;110.3;126.0;141.8;157.5;173.3;189.0;204.8" keyTimes="0;0.2041;0.2653;0.3265;0.3878;0.4490;0.5102;0.5714;0.6327;0.6939;0.7551;0.8163;0.8776;0.9388;1.0000" dur="0.73s" begin="0s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="106.0" y="50.0" font-size="26" font-weight="700" fill="#2B2C30" clip-path="url(#tpullrequests10650)">PULL_REQUESTS</text>
+<rect x="314.8" y="29.2" width="14.3" height="26.0" fill="#F6CD4C" class="blink">
+  <animate attributeName="opacity" values="0;0;1" begin="0s" dur="0.74s" keyTimes="0;0.987;1" fill="freeze"/></rect>
+<line x1="341" y1="40.0" x2="714" y2="40.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+  <animate attributeName="x2" values="341;341;714" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
+  <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
+
+</svg>

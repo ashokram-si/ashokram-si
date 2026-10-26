@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-label="Enter the 3D portfolio at https://ashokram-si.github.io" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<style>
+  .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  .blink { animation: blink 1.05s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><pattern id="g2" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#2B2C30" stroke-opacity="0.08"/></pattern>
+<clipPath id="bn"><rect x="6" y="6" width="708" height="158" rx="18"/></clipPath></defs>
+<rect x="6" y="6" width="708" height="158" rx="18" fill="#F6CD4C"/>
+<rect x="6" y="6" width="708" height="158" rx="18" fill="url(#g2)"/>
+<g clip-path="url(#bn)"><rect x="-200" y="0" width="120" height="170" fill="#FFFFFF" opacity="0.35" transform="skewX(-20)">
+  <animate attributeName="x" values="-200;920" dur="3.2s" begin="1s;6s;11s;16s;21s" fill="remove"/></rect></g>
+<text x="40" y="54" font-size="15" letter-spacing="2" fill="#2B2C30">// NEXT</text>
+<text x="40" y="98" font-size="34" font-weight="800" fill="#2B2C30" class="sans">Enter the 3D portfolio →</text>
+<text x="40" y="138" font-size="20" font-weight="700" fill="#2B2C30">ashokram-si.github.io</text>
+<g transform="translate(470,132)"><rect x="0" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.00s" repeatCount="indefinite"/></rect><rect x="22" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.12s" repeatCount="indefinite"/></rect><rect x="44" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.24s" repeatCount="indefinite"/></rect><rect x="66" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.36s" repeatCount="indefinite"/></rect><rect x="88" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.48s" repeatCount="indefinite"/></rect><rect x="110" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.60s" repeatCount="indefinite"/></rect><rect x="132" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.72s" repeatCount="indefinite"/></rect><rect x="154" y="-6" width="12" height="12" fill="#2B2C30" opacity="0.15"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="1.6s" begin="0.84s" repeatCount="indefinite"/></rect></g>
+</svg>

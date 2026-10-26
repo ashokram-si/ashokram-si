@@ -1,8 +1,8 @@
-<a href="https://ashokram-si.github.io"><img src="assets/hero.svg" width="100%" alt="Ashok Ram (@ashokram-si): I build new features, take on open tasks and fix bugs in open-source developer tools and AI infrastructure, every change shipped with tests."></a>
+<a href="https://ashokram-si.github.io"><picture><source media="(max-width: 700px)" srcset="assets/hero-m.svg"><img src="assets/hero.svg" width="100%" alt="Ashok Ram (@ashokram-si): I build new features, take on open tasks and fix bugs in open-source developer tools and AI infrastructure, every change shipped with tests."></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="Pull requests opened, merged, in review, and projects in rotation">
+<picture><source media="(max-width: 700px)" srcset="assets/stats-m.svg"><img src="assets/stats.svg" width="100%" alt="Pull requests opened, merged, in review, and projects in rotation"></picture>
 
-<img src="assets/h-01.svg" width="100%" alt="01 Contributor to">
+<picture><source media="(max-width: 700px)" srcset="assets/h-01-m.svg"><img src="assets/h-01.svg" width="100%" alt="01 Contributor to"></picture>
 
 <p>
 <a href="https://github.com/tauri-apps/tauri/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-tauri-apps-tauri.svg" width="32%" alt="Tauri"></a>
@@ -17,7 +17,7 @@
 
 <sub>Each tile opens the project's contributors list where my name appears, or my pull requests there while they're in review.</sub>
 
-<img src="assets/h-02.svg" width="100%" alt="02 Pull requests">
+<picture><source media="(max-width: 700px)" srcset="assets/h-02-m.svg"><img src="assets/h-02.svg" width="100%" alt="02 Pull requests"></picture>
 
 <details open><summary><b>All</b> · 10</summary>
 
@@ -69,9 +69,9 @@
 
 <sub>Newest first, 10 a page. Open a status to filter; every link goes to the pull request or issue.</sub>
 
-<img src="assets/h-03.svg" width="100%" alt="03 Projects I follow">
+<picture><source media="(max-width: 700px)" srcset="assets/h-03-m.svg"><img src="assets/h-03.svg" width="100%" alt="03 Projects I follow"></picture>
 
-<img src="assets/interests.svg" width="100%" alt="Projects I follow and contribute to, by area">
+<picture><source media="(max-width: 700px)" srcset="assets/interests-m.svg"><img src="assets/interests.svg" width="100%" alt="Projects I follow and contribute to, by area"></picture>
 
 <details><summary>Project links</summary>
 
@@ -82,7 +82,7 @@
 
 </details>
 
-<img src="assets/h-04.svg" width="100%" alt="04 How I work">
+<picture><source media="(max-width: 700px)" srcset="assets/h-04-m.svg"><img src="assets/h-04.svg" width="100%" alt="04 How I work"></picture>
 
 - **Features and tasks first:** from each project's roadmap, gap list or maintainer-endorsed issues, checked to be unclaimed.
 - **Bugs, confirmed:** reproduced on the latest code before any change.
@@ -91,6 +91,6 @@
 - **Each project's rules:** conventions, changelogs and AI policies followed exactly.
 - **Transparent about AI:** AI assistance (Claude Code) only where a project allows it, disclosed as it asks.
 
-<a href="https://ashokram-si.github.io"><img src="assets/site.svg" width="100%" alt="Enter the 3D portfolio"></a>
+<a href="https://ashokram-si.github.io"><picture><source media="(max-width: 700px)" srcset="assets/site-m.svg"><img src="assets/site.svg" width="100%" alt="Enter the 3D portfolio"></picture></a>
 
 <sub>Generated from tracked contribution data and refreshed automatically.</sub>

@@ -6,10 +6,14 @@
   
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<g transform="translate(6,24)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 02</text></g>
-<text x="94" y="44" font-size="22" font-weight="700" letter-spacing="1" fill="#2B2C30">PULL_REQUESTS</text>
-<rect x="293" y="25" width="12" height="22" fill="#F6CD4C" class="blink"/>
-<line x1="321" y1="36" x2="1176" y2="36" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+<g transform="translate(6,19)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 02</text></g>
+<clipPath id="tpullrequests9444"><rect x="94.0" y="22.0" width="173.6" height="33.0">
+  <animate attributeName="width" values="0;0.0;13.4;26.7;40.1;53.4;66.8;80.1;93.5;106.8;120.2;133.5;146.9;160.2;173.6" keyTimes="0;0.2041;0.2653;0.3265;0.3878;0.4490;0.5102;0.5714;0.6327;0.6939;0.7551;0.8163;0.8776;0.9388;1.0000" dur="0.73s" begin="0s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="94.0" y="44.0" font-size="22" font-weight="700" fill="#2B2C30" clip-path="url(#tpullrequests9444)">PULL_REQUESTS</text>
+<rect x="271.6" y="26.4" width="12.1" height="22.0" fill="#F6CD4C" class="blink">
+  <animate attributeName="opacity" values="0;0;1" begin="0s" dur="0.74s" keyTimes="0;0.987;1" fill="freeze"/></rect>
+<line x1="298" y1="36.0" x2="1176" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+  <animate attributeName="x2" values="298;298;1176" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D">10 entries</text>
+<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">10 entries</text>
 </svg>

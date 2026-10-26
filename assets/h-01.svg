@@ -6,10 +6,14 @@
   
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<g transform="translate(6,24)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 01</text></g>
-<text x="94" y="44" font-size="22" font-weight="700" letter-spacing="1" fill="#2B2C30">CONTRIBUTOR_TO</text>
-<rect x="307" y="25" width="12" height="22" fill="#F6CD4C" class="blink"/>
-<line x1="335" y1="36" x2="1176" y2="36" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+<g transform="translate(6,19)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 01</text></g>
+<clipPath id="tcontributort9444"><rect x="94.0" y="22.0" width="186.8" height="33.0">
+  <animate attributeName="width" values="0;0.0;13.3;26.7;40.0;53.4;66.7;80.1;93.4;106.7;120.1;133.4;146.8;160.1;173.5;186.8" keyTimes="0;0.1923;0.2500;0.3077;0.3654;0.4231;0.4808;0.5385;0.5962;0.6538;0.7115;0.7692;0.8269;0.8846;0.9423;1.0000" dur="0.78s" begin="0s" fill="freeze" calcMode="discrete"/></rect></clipPath>
+<text x="94.0" y="44.0" font-size="22" font-weight="700" fill="#2B2C30" clip-path="url(#tcontributort9444)">CONTRIBUTOR_TO</text>
+<rect x="284.8" y="26.4" width="12.1" height="22.0" fill="#F6CD4C" class="blink">
+  <animate attributeName="opacity" values="0;0;1" begin="0s" dur="0.79s" keyTimes="0;0.987;1" fill="freeze"/></rect>
+<line x1="311" y1="36.0" x2="1176" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+  <animate attributeName="x2" values="311;311;1176" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D">8 projects</text>
+<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">8 projects</text>
 </svg>

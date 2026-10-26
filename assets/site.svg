@@ -6,9 +6,12 @@
   
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<defs><pattern id="g2" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#2B2C30" stroke-opacity="0.08"/></pattern></defs>
+<defs><pattern id="g2" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#2B2C30" stroke-opacity="0.08"/></pattern>
+<clipPath id="bn"><rect x="6" y="6" width="1268" height="120" rx="18"/></clipPath></defs>
 <rect x="6" y="6" width="1268" height="120" rx="18" fill="#F6CD4C"/>
 <rect x="6" y="6" width="1268" height="120" rx="18" fill="url(#g2)"/>
+<g clip-path="url(#bn)"><rect x="-200" y="0" width="120" height="132" fill="#FFFFFF" opacity="0.35" transform="skewX(-20)">
+  <animate attributeName="x" values="-200;1480" dur="3.2s" begin="1s;6s;11s;16s;21s" fill="remove"/></rect></g>
 <text x="44" y="56" font-size="13" letter-spacing="2" fill="#2B2C30">// NEXT</text>
 <text x="44" y="94" font-size="30" font-weight="800" fill="#2B2C30" class="sans">Enter the 3D portfolio →</text>
 <text x="1236" y="86" text-anchor="end" font-size="18" font-weight="700" fill="#2B2C30">ashokram-si.github.io</text>
