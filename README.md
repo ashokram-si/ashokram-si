@@ -1,4 +1,4 @@
-<a href="https://github.com/ashokram-si"><img alt="ashokram-si: I fix real, reported bugs in open-source developer tools and AI infrastructure, mostly in Rust, C++ and Python. Every fix starts with a reproduction on the project&#x27;s latest code and ships with a regression test that fails without it. I follow each project&#x27;s own contribution process, including its rules on AI-assisted work." src="assets/hero-light.svg" width="100%"></a>
+<a href="https://github.com/ashokram-si"><img alt="ashokram-si: I build new features, take on open tasks and fix bugs in open-source developer tools and AI infrastructure, mostly in Rust, C++ and Python. Every change starts from the project&#x27;s own work list, roadmap or a reproduced issue, and ships with tests. I follow each project&#x27;s contribution process, including its rules on AI-assisted work." src="assets/hero-light.svg" width="100%"></a>
 
 <img alt="Pull requests opened, merged, in review, and projects I contribute to" src="assets/stats-light.svg" width="100%">
 
@@ -30,8 +30,9 @@
 
 ### How I work
 
-- **Confirmed bugs only:** triaged issues, checked to be unclaimed, reproduced on the latest code before any change.
-- **Tested:** every fix ships with a regression test that fails without it, plus the project's own lint, format and test gates.
+- **Features and tasks first:** work from each project's roadmap, gap list or maintainer-endorsed issues, checked to be unclaimed.
+- **Bugs, confirmed:** reproduced on the latest code before any change.
+- **Tested:** every change ships with tests (a regression test for each fix), plus the project's own lint, format and test gates.
 - **Small and focused:** one issue per pull request, the project's template filled in completely.
 - **Respectful of each project's rules:** conventions, changelogs and AI policies followed exactly.
 - **Transparent about AI:** I use AI assistance (Claude Code) where a project allows it, and disclose it as the project asks.
