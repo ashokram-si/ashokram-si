@@ -12,8 +12,8 @@
 <text x="94.0" y="44.0" font-size="22" font-weight="700" fill="#2B2C30" clip-path="url(#tcontributort9444)">CONTRIBUTOR_TO</text>
 <rect x="284.8" y="26.4" width="12.1" height="22.0" fill="#F6CD4C" class="blink">
   <animate attributeName="opacity" values="0;0;1" begin="0s" dur="0.79s" keyTimes="0;0.987;1" fill="freeze"/></rect>
-<line x1="311" y1="36.0" x2="1176" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
-  <animate attributeName="x2" values="311;311;1176" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
+<line x1="311" y1="36.0" x2="1168" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+  <animate attributeName="x2" values="311;311;1168" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">8 projects</text>
+<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">11 projects</text>
 </svg>
