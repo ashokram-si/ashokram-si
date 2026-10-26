@@ -11,5 +11,5 @@
 <rect x="307" y="25" width="12" height="22" fill="#F6CD4C" class="blink"/>
 <line x1="335" y1="36" x2="1176" y2="36" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D">7 projects</text>
+<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D">8 projects</text>
 </svg>

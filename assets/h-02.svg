@@ -9,7 +9,7 @@
 <g transform="translate(6,24)"><rect width="72" height="30" rx="4" fill="#F6CD4C"/><text x="9" y="21" font-size="18" font-weight="700" letter-spacing="0" fill="#2B2C30">// 02</text></g>
 <text x="94" y="44" font-size="22" font-weight="700" letter-spacing="1" fill="#2B2C30">PULL_REQUESTS</text>
 <rect x="293" y="25" width="12" height="22" fill="#F6CD4C" class="blink"/>
-<line x1="321" y1="36" x2="1184" y2="36" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
+<line x1="321" y1="36" x2="1176" y2="36" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D">8 entries</text>
+<text x="1274" y="41" text-anchor="end" font-size="13" fill="#66676D">10 entries</text>
 </svg>
