@@ -13,7 +13,7 @@ _Last updated: 2026-10-26_
 | Under review | 4 |
 | Issue investigations posted | 1 |
 | Fixes ready locally, awaiting submission | 0 |
-| Projects tracked | 10 |
+| Projects I contribute to | 32 |
 
 ## Contributions
 
@@ -31,9 +31,10 @@ Status key: 🟢 merged · 🟡 in review · 🔵 waiting on maintainers · 🔴
 
 | Area | Projects |
 |---|---|
-| Developer tooling (Rust) | [Tauri](https://github.com/tauri-apps/tauri), [Biome](https://github.com/biomejs/biome) |
-| AI infrastructure | [llama.cpp](https://github.com/ggml-org/llama.cpp), [Hugging Face Transformers](https://github.com/huggingface/transformers), [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) |
-| Creative apps in Rust (ArtCraft) | [PhotoCraft](https://github.com/storytold/photocraft), [VectorCraft](https://github.com/storytold/vectorcraft), [FilmCraft](https://github.com/storytold/filmcraft), [EffectCraft](https://github.com/storytold/effectcraft), [LightCraft](https://github.com/storytold/lightcraft) |
+| Creative apps in Rust ([ArtCraft](https://github.com/storytold)) | [PhotoCraft](https://github.com/storytold/photocraft), [VectorCraft](https://github.com/storytold/vectorcraft), [FilmCraft](https://github.com/storytold/filmcraft), [EffectCraft](https://github.com/storytold/effectcraft), [LightCraft](https://github.com/storytold/lightcraft), [PDFCraft](https://github.com/storytold/pdfcraft), [WordCraft](https://github.com/storytold/wordcraft), [GridCraft](https://github.com/storytold/gridcraft), [DeckCraft](https://github.com/storytold/deckcraft), [DesignCraft](https://github.com/storytold/designcraft), [CADCraft](https://github.com/storytold/cadcraft), [FigCraft](https://github.com/storytold/figcraft), [SoundCraft](https://github.com/storytold/soundcraft), [Craft Launcher](https://github.com/storytold/craft-launcher), [craft-libs](https://github.com/storytold/craft-libs) |
+| Developer tooling | [Tauri](https://github.com/tauri-apps/tauri), [oxc](https://github.com/oxc-project/oxc), [Deno](https://github.com/denoland/deno), [Mantine](https://github.com/mantinedev/mantine), [Strapi](https://github.com/strapi/strapi) |
+| AI agents & LLM tooling | [goose](https://github.com/aaif-goose/goose), [promptfoo](https://github.com/promptfoo/promptfoo), [crewAI](https://github.com/crewAIInc/crewAI), [Haystack](https://github.com/deepset-ai/haystack), [LocalAI](https://github.com/mudler/LocalAI), [Phoenix](https://github.com/Arize-ai/phoenix) |
+| Data & infrastructure | [Turso](https://github.com/tursodatabase/turso), [Valkey](https://github.com/valkey-io/valkey), [Dapr](https://github.com/dapr/dapr), [Meltano](https://github.com/meltano/meltano), [marimo](https://github.com/marimo-team/marimo), [PostHog](https://github.com/PostHog/posthog) |
 
 ## How I work
 
