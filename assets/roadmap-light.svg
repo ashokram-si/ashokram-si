@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="352" viewBox="0 0 1280 352" role="img" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+<style>
+  .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF"/><stop offset="0.55" stop-color="#4F7BFF"/><stop offset="1" stop-color="#16C6E8"/></linearGradient>
+  <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#16C6E8"/></linearGradient>
+</defs>
+<line x1="20" y1="40" x2="1260" y2="40" stroke="#DADFEA" stroke-width="2"/>
+<line x1="20" y1="40" x2="1260" y2="40" stroke="url(#g)" stroke-width="2" stroke-dasharray="6 8" opacity="0.8"/>
+<circle cx="28.0" cy="40" r="9" fill="#FFFFFF" stroke="url(#g)" stroke-width="3"/>
+<text x="20.0" y="86" font-size="20" font-weight="700" fill="#0A0C11">Nov 2026</text>
+<text x="20.0" y="122" font-size="15" fill="#5A6377">○</text>
+<text y="122" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="42.0" dy="0">First merged PRs in Tauri and</tspan><tspan x="42.0" dy="21">PhotoCraft</tspan></text>
+<text x="20.0" y="180" font-size="15" fill="#22C55E">✓</text>
+<text y="180" font-size="15" fill="#0A0C11" opacity="0.6"><tspan x="42.0" dy="0">submit the llama.cpp and Biome</tspan><tspan x="42.0" dy="21">fixes</tspan></text>
+<text x="20.0" y="238" font-size="15" fill="#5A6377">○</text>
+<text y="238" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="42.0" dy="0">fix VectorCraft #3837 once the</tspan><tspan x="42.0" dy="21">maintainers choose an approach</tspan></text>
+<circle cx="454.6666666666667" cy="40" r="9" fill="#FFFFFF" stroke="url(#g)" stroke-width="3"/>
+<text x="446.6666666666667" y="86" font-size="20" font-weight="700" fill="#0A0C11">Dec 2026</text>
+<text x="446.6666666666667" y="122" font-size="15" fill="#5A6377">○</text>
+<text y="122" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="468.6666666666667" dy="0">First goose, oxc and Turso fixes</tspan></text>
+<text x="446.6666666666667" y="180" font-size="15" fill="#5A6377">○</text>
+<text y="180" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="468.6666666666667" dy="0">a fix in every ArtCraft app</tspan></text>
+<text x="446.6666666666667" y="238" font-size="15" fill="#5A6377">○</text>
+<text y="238" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="468.6666666666667" dy="0">8 merged PRs across 5+ projects</tspan></text>
+<circle cx="881.3333333333334" cy="40" r="9" fill="#FFFFFF" stroke="url(#g)" stroke-width="3"/>
+<text x="873.3333333333334" y="86" font-size="20" font-weight="700" fill="#0A0C11">H1 2027</text>
+<text x="873.3333333333334" y="122" font-size="15" fill="#5A6377">○</text>
+<text y="122" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="895.3333333333334" dy="0">20+ merged PRs</tspan></text>
+<text x="873.3333333333334" y="180" font-size="15" fill="#5A6377">○</text>
+<text y="180" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="895.3333333333334" dy="0">a top community contributor across</tspan><tspan x="895.3333333333334" dy="21">the ArtCraft apps</tspan></text>
+<text x="873.3333333333334" y="238" font-size="15" fill="#5A6377">○</text>
+<text y="238" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="895.3333333333334" dy="0">regular contributor in 2 more</tspan><tspan x="895.3333333333334" dy="21">projects</tspan></text>
+<text x="873.3333333333334" y="296" font-size="15" fill="#5A6377">○</text>
+<text y="296" font-size="15" fill="#0A0C11" opacity="0.9"><tspan x="895.3333333333334" dy="0">a feature-level contribution after</tspan><tspan x="895.3333333333334" dy="21">maintainer discussion</tspan></text>
+</svg>

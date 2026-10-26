@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="462" viewBox="0 0 1280 462" role="img" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+<style>
+  .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF"/><stop offset="0.55" stop-color="#4F7BFF"/><stop offset="1" stop-color="#16C6E8"/></linearGradient>
+  <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#16C6E8"/></linearGradient>
+</defs>
+<text x="2" y="22" font-size="13" letter-spacing="2" font-weight="600" fill="#5A6377">CREATIVE APPS IN RUST (ARTCRAFT)</text>
+<g transform="translate(1,38)"><rect width="116" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">PhotoCraft</text></g>
+<g transform="translate(127,38)"><rect width="124" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">VectorCraft</text></g>
+<g transform="translate(261,38)"><rect width="108" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">FilmCraft</text></g>
+<g transform="translate(379,38)"><rect width="124" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">EffectCraft</text></g>
+<g transform="translate(513,38)"><rect width="116" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">LightCraft</text></g>
+<g transform="translate(639,38)"><rect width="99" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">PDFCraft</text></g>
+<g transform="translate(749,38)"><rect width="108" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">WordCraft</text></g>
+<g transform="translate(866,38)"><rect width="108" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">GridCraft</text></g>
+<g transform="translate(984,38)"><rect width="108" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">DeckCraft</text></g>
+<g transform="translate(1101,38)"><rect width="124" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">DesignCraft</text></g>
+<g transform="translate(1,84)"><rect width="99" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">CADCraft</text></g>
+<g transform="translate(110,84)"><rect width="99" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">FigCraft</text></g>
+<g transform="translate(219,84)"><rect width="116" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">SoundCraft</text></g>
+<g transform="translate(345,84)"><rect width="150" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Craft Launcher</text></g>
+<g transform="translate(505,84)"><rect width="116" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">craft-libs</text></g>
+<text x="2" y="172" font-size="13" letter-spacing="2" font-weight="600" fill="#5A6377">DEVELOPER TOOLING</text>
+<g transform="translate(1,188)"><rect width="74" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Tauri</text></g>
+<g transform="translate(85,188)"><rect width="57" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">oxc</text></g>
+<g transform="translate(152,188)"><rect width="66" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Deno</text></g>
+<g transform="translate(228,188)"><rect width="91" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Mantine</text></g>
+<g transform="translate(329,188)"><rect width="82" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Strapi</text></g>
+<text x="2" y="276" font-size="13" letter-spacing="2" font-weight="600" fill="#5A6377">AI AGENTS &amp; LLM TOOLING</text>
+<g transform="translate(1,292)"><rect width="74" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">goose</text></g>
+<g transform="translate(85,292)"><rect width="108" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">promptfoo</text></g>
+<g transform="translate(203,292)"><rect width="82" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">crewAI</text></g>
+<g transform="translate(295,292)"><rect width="99" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Haystack</text></g>
+<g transform="translate(404,292)"><rect width="91" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">LocalAI</text></g>
+<g transform="translate(505,292)"><rect width="91" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Phoenix</text></g>
+<text x="2" y="380" font-size="13" letter-spacing="2" font-weight="600" fill="#5A6377">DATA &amp; INFRASTRUCTURE</text>
+<g transform="translate(1,396)"><rect width="74" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Turso</text></g>
+<g transform="translate(85,396)"><rect width="82" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Valkey</text></g>
+<g transform="translate(177,396)"><rect width="66" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Dapr</text></g>
+<g transform="translate(253,396)"><rect width="91" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">Meltano</text></g>
+<g transform="translate(354,396)"><rect width="82" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">marimo</text></g>
+<g transform="translate(446,396)"><rect width="91" height="36" rx="18" fill="#F7F8FB" stroke="#E3E6EE"/><circle cx="16" cy="18" r="4" fill="url(#gv)"/><text x="28" y="23" font-size="15" fill="#0A0C11">PostHog</text></g>
+</svg>
