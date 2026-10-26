@@ -11,6 +11,7 @@
 <a href="https://github.com/biomejs/biome/pull/12684"><img alt="Biome: noUselessEmptyExport deleted a meaningful export {} from .d.ts files, leaking private types into the public API. The rule now skips declaration files, matching typescript-eslint; fixtures and changeset included" src="assets/card-biomejs-biome-12684-light.svg" width="49%"></a>
 <a href="https://github.com/ggml-org/llama.cpp/pull/31161"><img alt="llama.cpp: Out-of-bounds read in n-gram speculative drafting when the input is shorter than the n-gram size. Bounds check plus a sanitizer-verified regression test" src="assets/card-ggml-org-llama-cpp-31161-light.svg" width="49%"></a>
 <a href="https://github.com/storytold/vectorcraft/pull/4215"><img alt="VectorCraft: A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each file now gets one decoded-pixel budget, charged before decoding, with a regression test" src="assets/card-storytold-vectorcraft-4215-light.svg" width="49%"></a>
+<a href="https://github.com/storytold/cadcraft/pull/2202"><img alt="CADCraft: Feature: SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners become true CAD arcs and elliptical ones are traced, from CADCraft&#x27;s own gap list" src="assets/card-storytold-cadcraft-2202-light.svg" width="49%"></a>
 </p>
 
 <sub>Every card links to the pull request or issue. Status updates automatically as maintainers review.</sub>
