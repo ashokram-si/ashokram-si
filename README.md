@@ -1,24 +1,72 @@
-<a href="https://github.com/ashokram-si"><img alt="ashokram-si: I build new features, take on open tasks and fix bugs in open-source developer tools and AI infrastructure, mostly in Rust, C++ and Python. Every change starts from the project&#x27;s own work list, roadmap or a reproduced issue, and ships with tests. I follow each project&#x27;s contribution process, including its rules on AI-assisted work." src="assets/hero-light.svg" width="100%"></a>
+<a href="https://ashokram-si.github.io"><img src="assets/hero.svg" width="100%" alt="Ashok Ram (@ashokram-si): I build new features, take on open tasks and fix bugs in open-source developer tools and AI infrastructure, every change shipped with tests."></a>
 
-<img alt="Pull requests opened, merged, in review, and projects I contribute to" src="assets/stats-light.svg" width="100%">
+<img src="assets/stats.svg" width="100%" alt="Pull requests opened, merged, in review, and projects in rotation">
 
-### Contributions
+<img src="assets/h-01.svg" width="100%" alt="01 Contributor to">
 
 <p>
-<a href="https://github.com/tauri-apps/tauri/pull/16398"><img alt="Tauri: tauri dev stopped watching the whole app when .taurignore contained /*. Fixed to match .gitignore semantics, with a unit test and an end-to-end check" src="assets/card-tauri-apps-tauri-16398-light.svg" width="49%"></a>
-<a href="https://github.com/storytold/photocraft/pull/9516"><img alt="PhotoCraft: Crash-safety: a panic in a command&#x27;s pre-checks or bookkeeping crashed the app; now caught and reported as an error, with a regression test" src="assets/card-storytold-photocraft-9516-light.svg" width="49%"></a>
-<a href="https://github.com/storytold/vectorcraft/issues/3837#issuecomment-6401739771"><img alt="VectorCraft: Root-caused &quot;Offset Path resets 0.1 mm to 1 mm&quot;: decimal-comma input is rejected and the field silently keeps its old value. Proposed three fixes for the maintainers to choose from" src="assets/card-storytold-vectorcraft-3837-comment-light.svg" width="49%"></a>
-<a href="https://github.com/biomejs/biome/pull/12684"><img alt="Biome: noUselessEmptyExport deleted a meaningful export {} from .d.ts files, leaking private types into the public API. The rule now skips declaration files, matching typescript-eslint; fixtures and changeset included" src="assets/card-biomejs-biome-12684-light.svg" width="49%"></a>
-<a href="https://github.com/ggml-org/llama.cpp/pull/31161"><img alt="llama.cpp: Out-of-bounds read in n-gram speculative drafting when the input is shorter than the n-gram size. Bounds check plus a sanitizer-verified regression test" src="assets/card-ggml-org-llama-cpp-31161-light.svg" width="49%"></a>
-<a href="https://github.com/storytold/vectorcraft/pull/4215"><img alt="VectorCraft: A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each file now gets one decoded-pixel budget, charged before decoding, with a regression test" src="assets/card-storytold-vectorcraft-4215-light.svg" width="49%"></a>
-<a href="https://github.com/storytold/cadcraft/pull/2202"><img alt="CADCraft: Feature: SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners become true CAD arcs and elliptical ones are traced, from CADCraft&#x27;s own gap list" src="assets/card-storytold-cadcraft-2202-light.svg" width="49%"></a>
+<a href="https://github.com/tauri-apps/tauri/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-tauri-apps-tauri.svg" width="32%" alt="Tauri"></a>
+<a href="https://github.com/storytold/photocraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-photocraft.svg" width="32%" alt="PhotoCraft"></a>
+<a href="https://github.com/storytold/vectorcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
+<a href="https://github.com/biomejs/biome/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-biomejs-biome.svg" width="32%" alt="Biome"></a>
+<a href="https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-ggml-org-llama-cpp.svg" width="32%" alt="llama.cpp"></a>
+<a href="https://github.com/storytold/cadcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-cadcraft.svg" width="32%" alt="CADCraft"></a>
+<a href="https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-tursodatabase-turso.svg" width="32%" alt="Turso"></a>
 </p>
 
-<sub>Every card links to the pull request or issue. Status updates automatically as maintainers review.</sub>
+<sub>Each tile opens the project's contributors list where my name appears, or my pull requests there while they're in review.</sub>
 
-### Projects I contribute to
+<img src="assets/h-02.svg" width="100%" alt="02 Pull requests">
 
-<img alt="Projects I contribute to, grouped by area" src="assets/projects-light.svg" width="100%">
+<details open><summary><b>All</b> · 8</summary>
+
+| Project | Contribution | Status | Date |
+|:--|:--|:--|:--|
+| <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4215">#4215</a></sub> | <sub><b>BUG FIX</b></sub><br>A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
+| <img src="assets/logos/storytold-cadcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>CADCraft</b><br><sub><a href="https://github.com/storytold/cadcraft/pull/2202">#2202</a></sub> | <sub><b>FEATURE</b></sub><br>SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
+| <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/10829">#10829</a></sub> | <sub><b>FEATURE</b></sub><br>PRAGMA data_version, the cheap SQLite way to poll for changes. It moves when another connection or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
+| <img src="assets/logos/tauri-apps.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Tauri</b><br><sub><a href="https://github.com/tauri-apps/tauri/pull/16398">#16398</a></sub> | <sub><b>BUG FIX</b></sub><br>tauri dev stopped watching the whole app when .taurignore contained /*. Fixed to match .gitignore… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+| <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9516">#9516</a></sub> | <sub><b>BUG FIX</b></sub><br>Crash-safety: a panic in a command&#x27;s pre-checks or bookkeeping crashed the app; now caught and reported… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+| <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/issues/3837#issuecomment-6401739771">#3837 · comment</a></sub> | <sub><b>INVESTIGATION</b></sub><br>Root-caused &quot;Offset Path resets 0.1 mm to 1 mm&quot;: decimal-comma input is rejected and the field silently… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑25 |
+| <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/12684">#12684</a></sub> | <sub><b>BUG FIX</b></sub><br>noUselessEmptyExport deleted a meaningful export {} from .d.ts files, leaking private types into the… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+| <img src="assets/logos/ggml-org.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>llama.cpp</b><br><sub><a href="https://github.com/ggml-org/llama.cpp/pull/31161">#31161</a></sub> | <sub><b>BUG FIX</b></sub><br>Out-of-bounds read in n-gram speculative drafting when the input is shorter than the n-gram size… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+
+</details>
+
+<details><summary><b>Merged</b> · 1</summary>
+
+| Project | Contribution | Status | Date |
+|:--|:--|:--|:--|
+| <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4215">#4215</a></sub> | <sub><b>BUG FIX</b></sub><br>A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
+
+</details>
+
+<details><summary><b>In Review</b> · 6</summary>
+
+| Project | Contribution | Status | Date |
+|:--|:--|:--|:--|
+| <img src="assets/logos/storytold-cadcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>CADCraft</b><br><sub><a href="https://github.com/storytold/cadcraft/pull/2202">#2202</a></sub> | <sub><b>FEATURE</b></sub><br>SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
+| <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/10829">#10829</a></sub> | <sub><b>FEATURE</b></sub><br>PRAGMA data_version, the cheap SQLite way to poll for changes. It moves when another connection or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
+| <img src="assets/logos/tauri-apps.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Tauri</b><br><sub><a href="https://github.com/tauri-apps/tauri/pull/16398">#16398</a></sub> | <sub><b>BUG FIX</b></sub><br>tauri dev stopped watching the whole app when .taurignore contained /*. Fixed to match .gitignore… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+| <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9516">#9516</a></sub> | <sub><b>BUG FIX</b></sub><br>Crash-safety: a panic in a command&#x27;s pre-checks or bookkeeping crashed the app; now caught and reported… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+| <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/12684">#12684</a></sub> | <sub><b>BUG FIX</b></sub><br>noUselessEmptyExport deleted a meaningful export {} from .d.ts files, leaking private types into the… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+| <img src="assets/logos/ggml-org.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>llama.cpp</b><br><sub><a href="https://github.com/ggml-org/llama.cpp/pull/31161">#31161</a></sub> | <sub><b>BUG FIX</b></sub><br>Out-of-bounds read in n-gram speculative drafting when the input is shorter than the n-gram size… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
+
+</details>
+
+<details><summary><b>Closed</b> · 1</summary>
+
+| Project | Contribution | Status | Date |
+|:--|:--|:--|:--|
+| <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/issues/3837#issuecomment-6401739771">#3837 · comment</a></sub> | <sub><b>INVESTIGATION</b></sub><br>Root-caused &quot;Offset Path resets 0.1 mm to 1 mm&quot;: decimal-comma input is rejected and the field silently… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑25 |
+
+</details>
+
+<sub>Newest first, 10 a page. Open a status to filter; every link goes to the pull request or issue.</sub>
+
+<img src="assets/h-03.svg" width="100%" alt="03 Projects I follow">
+
+<img src="assets/interests.svg" width="100%" alt="Projects I follow and contribute to, by area">
 
 <details><summary>Project links</summary>
 
@@ -29,17 +77,15 @@
 
 </details>
 
-### How I work
+<img src="assets/h-04.svg" width="100%" alt="04 How I work">
 
-- **Features and tasks first:** work from each project's roadmap, gap list or maintainer-endorsed issues, checked to be unclaimed.
+- **Features and tasks first:** from each project's roadmap, gap list or maintainer-endorsed issues, checked to be unclaimed.
 - **Bugs, confirmed:** reproduced on the latest code before any change.
-- **Tested:** every change ships with tests (a regression test for each fix), plus the project's own lint, format and test gates.
+- **Tested:** every change ships with tests, plus the project's own lint, format and test gates.
 - **Small and focused:** one issue per pull request, the project's template filled in completely.
-- **Respectful of each project's rules:** conventions, changelogs and AI policies followed exactly.
-- **Transparent about AI:** I use AI assistance (Claude Code) where a project allows it, and disclose it as the project asks.
+- **Each project's rules:** conventions, changelogs and AI policies followed exactly.
+- **Transparent about AI:** AI assistance (Claude Code) only where a project allows it, disclosed as it asks.
 
-### Roadmap
+<a href="https://ashokram-si.github.io"><img src="assets/site.svg" width="100%" alt="Enter the 3D portfolio"></a>
 
-<img alt="Roadmap: goals for the coming months" src="assets/roadmap-light.svg" width="100%">
-
-<sub>This page is generated from tracked contribution data and refreshed automatically.</sub>
+<sub>Generated from tracked contribution data and refreshed automatically.</sub>
