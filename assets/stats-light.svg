@@ -12,7 +12,7 @@
   <rect width="302" height="176" rx="22" fill="#F7F8FB" stroke="#E3E6EE"/>
   <rect x="24" y="24" width="28" height="4" rx="2" fill="url(#g)"/>
   <text x="24" y="58" font-size="13" letter-spacing="2" font-weight="600" fill="#5A6377">PULL REQUESTS</text>
-  <text x="22" y="128" class="mono" font-size="64" font-weight="700" fill="url(#g)">4</text>
+  <text x="22" y="128" class="mono" font-size="64" font-weight="700" fill="url(#g)">5</text>
   <text x="24" y="156" font-size="15" fill="#5A6377">opened</text>
 </g>
 <g transform="translate(328,2)">
@@ -26,7 +26,7 @@
   <rect width="302" height="176" rx="22" fill="#F7F8FB" stroke="#E3E6EE"/>
   <rect x="24" y="24" width="28" height="4" rx="2" fill="url(#g)"/>
   <text x="24" y="58" font-size="13" letter-spacing="2" font-weight="600" fill="#5A6377">IN REVIEW</text>
-  <text x="22" y="128" class="mono" font-size="64" font-weight="700" fill="url(#g)">4</text>
+  <text x="22" y="128" class="mono" font-size="64" font-weight="700" fill="url(#g)">5</text>
   <text x="24" y="156" font-size="15" fill="#5A6377">with maintainers</text>
 </g>
 <g transform="translate(980,2)">
