@@ -15,5 +15,5 @@
 <line x1="311" y1="36.0" x2="1168" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
   <animate attributeName="x2" values="311;311;1168" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">22 projects</text>
+<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">23 projects</text>
 </svg>
