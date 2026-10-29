@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://github.com/storytold/designcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-designcraft.svg" width="32%" alt="DesignCraft"></a>
-<a href="https://github.com/storytold/effectcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-effectcraft.svg" width="32%" alt="EffectCraft"></a>
+<a href="https://github.com/storytold/effectcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-effectcraft.svg" width="32%" alt="EffectCraft"></a>
 <a href="https://github.com/storytold/deckcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-deckcraft.svg" width="32%" alt="DeckCraft"></a>
 <a href="https://github.com/storytold/photocraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-photocraft.svg" width="32%" alt="PhotoCraft"></a>
 <a href="https://github.com/storytold/soundcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-soundcraft.svg" width="32%" alt="SoundCraft"></a>
@@ -39,7 +39,7 @@
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
 | <img src="assets/logos/storytold-designcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>DesignCraft</b><br><sub><a href="https://github.com/storytold/designcraft/pull/1938">#1938</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | Cmd-click with the Selection tool selects the object behind; each further click goes one deeper and… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
-| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2550">#2550</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | a shape&#x27;s Rectangle and Ellipse Size get the Constrain Proportions chain, off by default | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
+| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2550">#2550</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | a shape&#x27;s Rectangle and Ellipse Size get the Constrain Proportions chain, off by default | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑28 |
 | <img src="assets/logos/storytold-deckcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>DeckCraft</b><br><sub><a href="https://github.com/storytold/deckcraft/pull/1485">#1485</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Reuse Slides picker shows a thumbnail of each slide beside its title | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
 | <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9952">#9952</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | JPEG Options shows how big the file will be, updating as quality and format change | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
 | <img src="assets/logos/storytold-soundcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>SoundCraft</b><br><sub><a href="https://github.com/storytold/soundcraft/pull/1156">#1156</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A movie whose file is gone kept its raw stored path and was never marked offline, so the Video track… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
@@ -84,10 +84,11 @@
 
 </details>
 
-<details><summary><b>Merged</b> · 5</summary>
+<details><summary><b>Merged</b> · 6</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2550">#2550</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | a shape&#x27;s Rectangle and Ellipse Size get the Constrain Proportions chain, off by default | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑28 |
 | <img src="assets/logos/webpro-nl-knip.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Knip</b><br><sub><a href="https://github.com/webpro-nl/knip/pull/2227">#2227</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | Mastra plugin: Mastra&#x27;s CLI finds agents, tools and workflows by folder convention under src/mastra/… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/JuliaLang.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Julia</b><br><sub><a href="https://github.com/JuliaLang/julia/pull/64370">#64370</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | first(s, typemax(Int)) returned an empty string for non-ASCII text: nextind overflowed to a negative… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/tracel-ai.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Burn</b><br><sub><a href="https://github.com/tracel-ai/burn/pull/6235">#6235</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | average pooling gets dilation, threaded the same way as max pooling through every layer and the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
@@ -96,12 +97,11 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 21 &nbsp;·&nbsp; page 1 of 3 (1–10 of 21)</summary>
+<details><summary><b>In Review</b> · 20 &nbsp;·&nbsp; page 1 of 2 (1–10 of 20)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
 | <img src="assets/logos/storytold-designcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>DesignCraft</b><br><sub><a href="https://github.com/storytold/designcraft/pull/1938">#1938</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | Cmd-click with the Selection tool selects the object behind; each further click goes one deeper and… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
-| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2550">#2550</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | a shape&#x27;s Rectangle and Ellipse Size get the Constrain Proportions chain, off by default | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
 | <img src="assets/logos/storytold-deckcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>DeckCraft</b><br><sub><a href="https://github.com/storytold/deckcraft/pull/1485">#1485</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Reuse Slides picker shows a thumbnail of each slide beside its title | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
 | <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9952">#9952</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | JPEG Options shows how big the file will be, updating as quality and format change | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
 | <img src="assets/logos/storytold-soundcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>SoundCraft</b><br><sub><a href="https://github.com/storytold/soundcraft/pull/1156">#1156</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A movie whose file is gone kept its raw stored path and was never marked offline, so the Video track… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
@@ -110,14 +110,14 @@
 | <img src="assets/logos/grafana.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Grafana</b><br><sub><a href="https://github.com/grafana/grafana/pull/136236">#136236</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Table Gauge cells: bar widths didn&#x27;t match the values because an inverted comparison let the… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑28 |
 | <img src="assets/logos/prettier.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Prettier</b><br><sub><a href="https://github.com/prettier/prettier/pull/20377">#20377</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A comment just inside the ( of a label&#x27;s body moved on every format run. It is now attached to the… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
 | <img src="assets/logos/quarkusio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Quarkus</b><br><sub><a href="https://github.com/quarkusio/quarkus/pull/57866">#57866</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | quarkus:dev generated code before application.properties was copied, so gRPC settings like… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
+| <img src="assets/logos/vectordotdev.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Vector</b><br><sub><a href="https://github.com/vectordotdev/vector/pull/26886">#26886</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Compressing sinks (Loki, HTTP, S3 and others) reported compressed bytes in component_sent_bytes_total… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
 
 </details>
 
-<details><summary><b>In Review</b> · 21 &nbsp;·&nbsp; page 2 of 3 (11–20 of 21)</summary>
+<details><summary><b>In Review</b> · 20 &nbsp;·&nbsp; page 2 of 2 (11–20 of 20)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
-| <img src="assets/logos/vectordotdev.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Vector</b><br><sub><a href="https://github.com/vectordotdev/vector/pull/26886">#26886</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Compressing sinks (Loki, HTTP, S3 and others) reported compressed bytes in component_sent_bytes_total… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
 | <img src="assets/logos/storytold-cadcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>CADCraft</b><br><sub><a href="https://github.com/storytold/cadcraft/pull/2202">#2202</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/10829">#10829</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | PRAGMA data_version, the cheap SQLite way to poll for changes. It moves when another connection or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2476">#2476</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Render Queue now writes Targa (.tga) image sequences: 24-bit RGB, or 32-bit with straight or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
@@ -127,13 +127,6 @@
 | <img src="assets/logos/tauri-apps.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Tauri</b><br><sub><a href="https://github.com/tauri-apps/tauri/pull/16398">#16398</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | tauri dev stopped watching the whole app when .taurignore contained /*. Watch folders are now always… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 | <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9516">#9516</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Crash-safety: a panic in a command&#x27;s pre-checks or bookkeeping crashed the app; now caught and reported… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/12684">#12684</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | noUselessEmptyExport deleted a meaningful export {} from .d.ts files, leaking private types into the… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
-
-</details>
-
-<details><summary><b>In Review</b> · 21 &nbsp;·&nbsp; page 3 of 3 (21–21 of 21)</summary>
-
-| Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
-|:--|:--|:--|:--|:--|
 | <img src="assets/logos/ggml-org.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>llama.cpp</b><br><sub><a href="https://github.com/ggml-org/llama.cpp/pull/31161">#31161</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Out-of-bounds read in n-gram speculative drafting when the input is shorter than the n-gram size… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 
 </details>
