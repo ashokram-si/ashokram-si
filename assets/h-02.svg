@@ -15,5 +15,5 @@
 <line x1="298" y1="36.0" x2="1176" y2="36.0" stroke="#66676D" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 7">
   <animate attributeName="x2" values="298;298;1176" begin="0s" dur="1.50s" keyTimes="0;0.400;1" fill="freeze"/>
   <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/></line>
-<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">31 entries</text>
+<text x="1274" y="41.0" text-anchor="end" font-size="13" fill="#66676D">32 entries</text>
 </svg>
