@@ -6,13 +6,13 @@
 
 <p>
 <a href="https://github.com/storytold/designcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-designcraft.svg" width="32%" alt="DesignCraft"></a>
-<a href="https://github.com/storytold/effectcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-effectcraft.svg" width="32%" alt="EffectCraft"></a>
+<a href="https://github.com/storytold/effectcraft/graphs/contributors"><img src="assets/tile-storytold-effectcraft.svg" width="32%" alt="EffectCraft"></a>
 <a href="https://github.com/storytold/deckcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-deckcraft.svg" width="32%" alt="DeckCraft"></a>
 <a href="https://github.com/storytold/photocraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-photocraft.svg" width="32%" alt="PhotoCraft"></a>
 <a href="https://github.com/storytold/soundcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-soundcraft.svg" width="32%" alt="SoundCraft"></a>
 <a href="https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-grafana-grafana.svg" width="32%" alt="Grafana"></a>
 <a href="https://github.com/tauri-apps/tauri/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-tauri-apps-tauri.svg" width="32%" alt="Tauri"></a>
-<a href="https://github.com/storytold/vectorcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
+<a href="https://github.com/storytold/vectorcraft/graphs/contributors"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
 <a href="https://github.com/biomejs/biome/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-biomejs-biome.svg" width="32%" alt="Biome"></a>
 <a href="https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-ggml-org-llama-cpp.svg" width="32%" alt="llama.cpp"></a>
 <a href="https://github.com/storytold/cadcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-cadcraft.svg" width="32%" alt="CADCraft"></a>
@@ -64,7 +64,7 @@
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4215">#4215</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-cadcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>CADCraft</b><br><sub><a href="https://github.com/storytold/cadcraft/pull/2202">#2202</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/10829">#10829</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | PRAGMA data_version, the cheap SQLite way to poll for changes. It moves when another connection or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
-| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2476">#2476</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Render Queue now writes Targa (.tga) image sequences: 24-bit RGB, or 32-bit with straight or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
+| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2476">#2476</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Render Queue now writes Targa (.tga) image sequences: 24-bit RGB, or 32-bit with straight or… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
 
 </details>
 
@@ -84,7 +84,7 @@
 
 </details>
 
-<details><summary><b>Merged</b> · 6</summary>
+<details><summary><b>Merged</b> · 7</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -93,11 +93,12 @@
 | <img src="assets/logos/JuliaLang.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Julia</b><br><sub><a href="https://github.com/JuliaLang/julia/pull/64370">#64370</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | first(s, typemax(Int)) returned an empty string for non-ASCII text: nextind overflowed to a negative… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/tracel-ai.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Burn</b><br><sub><a href="https://github.com/tracel-ai/burn/pull/6235">#6235</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | average pooling gets dilation, threaded the same way as max pooling through every layer and the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4215">#4215</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
+| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2476">#2476</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Render Queue now writes Targa (.tga) image sequences: 24-bit RGB, or 32-bit with straight or… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4247">#4247</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | saved views completed: all 25 views are now listed in the View menu (only 10 were), Edit Views opens a… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
 
 </details>
 
-<details><summary><b>In Review</b> · 20 &nbsp;·&nbsp; page 1 of 2 (1–10 of 20)</summary>
+<details><summary><b>In Review</b> · 19 &nbsp;·&nbsp; page 1 of 2 (1–10 of 19)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -114,13 +115,12 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 20 &nbsp;·&nbsp; page 2 of 2 (11–20 of 20)</summary>
+<details><summary><b>In Review</b> · 19 &nbsp;·&nbsp; page 2 of 2 (11–19 of 19)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
 | <img src="assets/logos/storytold-cadcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>CADCraft</b><br><sub><a href="https://github.com/storytold/cadcraft/pull/2202">#2202</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/10829">#10829</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | PRAGMA data_version, the cheap SQLite way to poll for changes. It moves when another connection or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
-| <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2476">#2476</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Render Queue now writes Targa (.tga) image sequences: 24-bit RGB, or 32-bit with straight or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/oxc-project.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>oxc</b><br><sub><a href="https://github.com/oxc-project/oxc/pull/28181">#28181</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Parser fix: a regex like (/&lt;!-- x --&gt;/) in a module was wrongly read as an HTML comment (and crashed… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-gridcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>GridCraft</b><br><sub><a href="https://github.com/storytold/gridcraft/pull/2642">#2642</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | After saving a CSV, Save in the close dialog asked again forever. It now closes once the file is… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-craft-launcher.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Craft Launcher</b><br><sub><a href="https://github.com/storytold/craft-launcher/pull/912">#912</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Security: the macOS install check could follow a planted symlink and empty another file. It now probes… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
