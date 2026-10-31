@@ -49,7 +49,7 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 26 &nbsp;·&nbsp; page 1 of 3 (1–10 of 26)</summary>
+<details><summary><b>In Review</b> · 25 &nbsp;·&nbsp; page 1 of 3 (1–10 of 25)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -66,7 +66,7 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 26 &nbsp;·&nbsp; page 2 of 3 (11–20 of 26)</summary>
+<details><summary><b>In Review</b> · 25 &nbsp;·&nbsp; page 2 of 3 (11–20 of 25)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -83,12 +83,11 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 26 &nbsp;·&nbsp; page 3 of 3 (21–26 of 26)</summary>
+<details><summary><b>In Review</b> · 25 &nbsp;·&nbsp; page 3 of 3 (21–25 of 25)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
 | <img src="assets/logos/storytold-gridcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>GridCraft</b><br><sub><a href="https://github.com/storytold/gridcraft/pull/2642">#2642</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | After saving a CSV, Save in the close dialog asked again forever. It now closes once the file is… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
-| <img src="assets/logos/storytold-craft-launcher.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Craft Launcher</b><br><sub><a href="https://github.com/storytold/craft-launcher/pull/912">#912</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Security: the macOS install check could follow a planted symlink and empty another file. It now probes… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/tauri-apps.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Tauri</b><br><sub><a href="https://github.com/tauri-apps/tauri/pull/16398">#16398</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | tauri dev stopped watching the whole app when .taurignore contained /*. Watch folders are now always… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 | <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9516">#9516</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Crash-safety: a panic in a command&#x27;s pre-checks or bookkeeping crashed the app; now caught and reported… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/12684">#12684</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | noUselessEmptyExport deleted a meaningful export {} from .d.ts files, leaking private types into the… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
@@ -96,12 +95,13 @@
 
 </details>
 
-<details><summary><b>Closed</b> · 3</summary>
+<details><summary><b>Closed</b> · 4</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
 | <img src="assets/logos/leptos-rs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Leptos</b><br><sub><a href="https://github.com/leptos-rs/leptos/pull/4974">#4974</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Islands never hydrated on a page whose main thread never goes idle: island_script.js waited on… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑27 |
 | <img src="assets/logos/gohugoio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Hugo</b><br><sub><a href="https://github.com/gohugoio/hugo/pull/15488">#15488</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Tailwind @import &quot;./x.css&quot; failed with disableInlineImports: the CSS goes to the CLI on stdin, so… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑27 |
+| <img src="assets/logos/storytold-craft-launcher.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Craft Launcher</b><br><sub><a href="https://github.com/storytold/craft-launcher/pull/912">#912</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Security: the macOS install check could follow a planted symlink and empty another file. It now probes… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/issues/3837#issuecomment-6401739771">#3837 · comment</a></sub> | <img src="assets/kind-investigation.svg" width="114" height="24" alt="Investigation"> | Root-caused &quot;Offset Path resets 0.1 mm to 1 mm&quot;: decimal-comma input is rejected and the field silently… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑25 |
 
 </details>
@@ -162,7 +162,7 @@
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
 | <img src="assets/logos/storytold-gridcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>GridCraft</b><br><sub><a href="https://github.com/storytold/gridcraft/pull/2642">#2642</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | After saving a CSV, Save in the close dialog asked again forever. It now closes once the file is… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
-| <img src="assets/logos/storytold-craft-launcher.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Craft Launcher</b><br><sub><a href="https://github.com/storytold/craft-launcher/pull/912">#912</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Security: the macOS install check could follow a planted symlink and empty another file. It now probes… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
+| <img src="assets/logos/storytold-craft-launcher.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Craft Launcher</b><br><sub><a href="https://github.com/storytold/craft-launcher/pull/912">#912</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Security: the macOS install check could follow a planted symlink and empty another file. It now probes… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑26 |
 | <img src="assets/logos/tauri-apps.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Tauri</b><br><sub><a href="https://github.com/tauri-apps/tauri/pull/16398">#16398</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | tauri dev stopped watching the whole app when .taurignore contained /*. Watch folders are now always… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 | <img src="assets/logos/storytold-photocraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>PhotoCraft</b><br><sub><a href="https://github.com/storytold/photocraft/pull/9516">#9516</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Crash-safety: a panic in a command&#x27;s pre-checks or bookkeeping crashed the app; now caught and reported… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑25 |
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/issues/3837#issuecomment-6401739771">#3837 · comment</a></sub> | <img src="assets/kind-investigation.svg" width="114" height="24" alt="Investigation"> | Root-caused &quot;Offset Path resets 0.1 mm to 1 mm&quot;: decimal-comma input is rejected and the field silently… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑25 |
