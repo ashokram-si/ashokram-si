@@ -32,7 +32,7 @@
 <a href="https://github.com/JuliaLang/julia/commits?author=ashokram-si"><img src="assets/tile-julialang-julia.svg" width="32%" alt="Julia"></a>
 <a href="https://github.com/tracel-ai/burn/commits?author=ashokram-si"><img src="assets/tile-tracel-ai-burn.svg" width="32%" alt="Burn"></a>
 <a href="https://github.com/gohugoio/hugo/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-gohugoio-hugo.svg" width="32%" alt="Hugo"></a>
-<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-quarkusio-quarkus.svg" width="32%" alt="Quarkus"></a>
+<a href="https://github.com/quarkusio/quarkus/commits?author=ashokram-si"><img src="assets/tile-quarkusio-quarkus.svg" width="32%" alt="Quarkus"></a>
 <a href="https://github.com/vectordotdev/vector/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-vectordotdev-vector.svg" width="32%" alt="Vector"></a>
 </p>
 
@@ -40,7 +40,7 @@
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-02-m.svg"><img src="assets/h-02.svg" width="100%" alt="02 Pull requests"></picture>
 
-<details open><summary><b>Merged</b> · 10</summary>
+<details open><summary><b>Merged</b> · 11 &nbsp;·&nbsp; page 1 of 2 (1–10 of 11)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -51,13 +51,21 @@
 | <img src="assets/logos/webpro-nl-knip.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Knip</b><br><sub><a href="https://github.com/webpro-nl/knip/pull/2227">#2227</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | Mastra plugin: Mastra&#x27;s CLI finds agents, tools and workflows by folder convention under src/mastra/… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/JuliaLang.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Julia</b><br><sub><a href="https://github.com/JuliaLang/julia/pull/64370">#64370</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | first(s, typemax(Int)) returned an empty string for non-ASCII text: nextind overflowed to a negative… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/tracel-ai.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Burn</b><br><sub><a href="https://github.com/tracel-ai/burn/pull/6235">#6235</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | average pooling gets dilation, threaded the same way as max pooling through every layer and the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
+| <img src="assets/logos/quarkusio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Quarkus</b><br><sub><a href="https://github.com/quarkusio/quarkus/pull/57866">#57866</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | quarkus:dev generated code before application.properties was copied, so gRPC settings like… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4215">#4215</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A small EMF/WMF file could hold many maximum-size embedded images and tie up the app for minutes. Each… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
 | <img src="assets/logos/storytold-effectcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>EffectCraft</b><br><sub><a href="https://github.com/storytold/effectcraft/pull/2476">#2476</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Render Queue now writes Targa (.tga) image sequences: 24-bit RGB, or 32-bit with straight or… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
+
+</details>
+
+<details><summary><b>Merged</b> · 11 &nbsp;·&nbsp; page 2 of 2 (11–11 of 11)</summary>
+
+| Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
+|:--|:--|:--|:--|:--|
 | <img src="assets/logos/storytold-vectorcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>VectorCraft</b><br><sub><a href="https://github.com/storytold/vectorcraft/pull/4247">#4247</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | saved views completed: all 25 views are now listed in the View menu (only 10 were), Edit Views opens a… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑26 |
 
 </details>
 
-<details><summary><b>In Review</b> · 30 &nbsp;·&nbsp; page 1 of 3 (1–10 of 30)</summary>
+<details><summary><b>In Review</b> · 29 &nbsp;·&nbsp; page 1 of 3 (1–10 of 29)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -74,7 +82,7 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 30 &nbsp;·&nbsp; page 2 of 3 (11–20 of 30)</summary>
+<details><summary><b>In Review</b> · 29 &nbsp;·&nbsp; page 2 of 3 (11–20 of 29)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
@@ -91,11 +99,10 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 30 &nbsp;·&nbsp; page 3 of 3 (21–30 of 30)</summary>
+<details><summary><b>In Review</b> · 29 &nbsp;·&nbsp; page 3 of 3 (21–29 of 29)</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
-| <img src="assets/logos/quarkusio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Quarkus</b><br><sub><a href="https://github.com/quarkusio/quarkus/pull/57866">#57866</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | quarkus:dev generated code before application.properties was copied, so gRPC settings like… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
 | <img src="assets/logos/vectordotdev.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Vector</b><br><sub><a href="https://github.com/vectordotdev/vector/pull/26886">#26886</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Compressing sinks (Loki, HTTP, S3 and others) reported compressed bytes in component_sent_bytes_total… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
 | <img src="assets/logos/storytold-cadcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>CADCraft</b><br><sub><a href="https://github.com/storytold/cadcraft/pull/2202">#2202</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | SVG import now reads rounded rectangle corners (rx/ry) as the SVG spec defines them. Circular corners… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
 | <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/10829">#10829</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | PRAGMA data_version, the cheap SQLite way to poll for changes. It moves when another connection or… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑26 |
@@ -166,7 +173,7 @@
 | <img src="assets/logos/JuliaLang.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Julia</b><br><sub><a href="https://github.com/JuliaLang/julia/pull/64370">#64370</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | first(s, typemax(Int)) returned an empty string for non-ASCII text: nextind overflowed to a negative… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/tracel-ai.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Burn</b><br><sub><a href="https://github.com/tracel-ai/burn/pull/6235">#6235</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | average pooling gets dilation, threaded the same way as max pooling through every layer and the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 | <img src="assets/logos/gohugoio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Hugo</b><br><sub><a href="https://github.com/gohugoio/hugo/pull/15488">#15488</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Tailwind @import &quot;./x.css&quot; failed with disableInlineImports: the CSS goes to the CLI on stdin, so… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑10‑27 |
-| <img src="assets/logos/quarkusio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Quarkus</b><br><sub><a href="https://github.com/quarkusio/quarkus/pull/57866">#57866</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | quarkus:dev generated code before application.properties was copied, so gRPC settings like… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑10‑27 |
+| <img src="assets/logos/quarkusio.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Quarkus</b><br><sub><a href="https://github.com/quarkusio/quarkus/pull/57866">#57866</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | quarkus:dev generated code before application.properties was copied, so gRPC settings like… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑10‑27 |
 
 </details>
 
