@@ -1,5 +1,7 @@
 <a href="https://ashokram-si.github.io"><picture><source media="(max-width: 700px)" srcset="assets/hero-m.svg"><img src="assets/hero.svg" width="100%" alt="Ashok Ram (@ashokram-si): I build new features, take on open tasks and fix bugs in open-source developer tools and AI infrastructure, every change shipped with tests."></picture></a>
 
+<a href="https://github.com/ashokram-si?tab=achievements"><picture><source media="(max-width: 700px)" srcset="assets/achievements-m.svg"><img src="assets/achievements.svg" width="100%" alt="GitHub achievements: Pull Shark, Pair Extraordinaire"></picture></a>
+
 <picture><source media="(max-width: 700px)" srcset="assets/stats-m.svg"><img src="assets/stats.svg" width="100%" alt="Pull requests opened, merged, in review, and projects in rotation"></picture>
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-01-m.svg"><img src="assets/h-01.svg" width="100%" alt="01 Contributor to"></picture>
