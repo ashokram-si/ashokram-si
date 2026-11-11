@@ -18,7 +18,7 @@
 <a href="https://github.com/storytold/lightcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-lightcraft.svg" width="32%" alt="LightCraft"></a>
 <a href="https://github.com/storytold/soundcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-soundcraft.svg" width="32%" alt="SoundCraft"></a>
 <a href="https://github.com/storytold/vectorcraft/graphs/contributors"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
-<a href="https://github.com/storytold/designcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-designcraft.svg" width="32%" alt="DesignCraft"></a>
+<a href="https://github.com/storytold/designcraft/graphs/contributors"><img src="assets/tile-storytold-designcraft.svg" width="32%" alt="DesignCraft"></a>
 <a href="https://github.com/storytold/deckcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-deckcraft.svg" width="32%" alt="DeckCraft"></a>
 <a href="https://github.com/grafana/grafana/commits?author=ashokram-si"><img src="assets/tile-grafana-grafana.svg" width="32%" alt="Grafana"></a>
 <a href="https://github.com/storytold/effectcraft/graphs/contributors"><img src="assets/tile-storytold-effectcraft.svg" width="32%" alt="EffectCraft"></a>
