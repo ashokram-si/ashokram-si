@@ -41,7 +41,11 @@
 
 <sub>Each tile opens the project's contributors list where my name appears, or my pull requests there while they're in review.</sub>
 
-<picture><source media="(max-width: 700px)" srcset="assets/h-02-m.svg"><img src="assets/h-02.svg" width="100%" alt="02 Pull requests"></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/h-02-m.svg"><img src="assets/h-02.svg" width="100%" alt="02 Languages"></picture>
+
+<picture><source media="(max-width: 700px)" srcset="assets/languages-m.svg"><img src="assets/languages.svg" width="100%" alt="Pull requests by project language, with the projects each went to"></picture>
+
+<picture><source media="(max-width: 700px)" srcset="assets/h-03-m.svg"><img src="assets/h-03.svg" width="100%" alt="03 Pull requests"></picture>
 
 <details open><summary><b>Merged</b> · 15 &nbsp;·&nbsp; page 1 of 2 (1–10 of 15)</summary>
 
@@ -220,7 +224,7 @@
 
 <sub>Merged first, newest first, 10 a page. Open another status or All to see the rest; every link goes to the pull request or issue.</sub>
 
-<picture><source media="(max-width: 700px)" srcset="assets/h-03-m.svg"><img src="assets/h-03.svg" width="100%" alt="03 Projects I follow"></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/h-04-m.svg"><img src="assets/h-04.svg" width="100%" alt="04 Projects I follow"></picture>
 
 <picture><source media="(max-width: 700px)" srcset="assets/interests-m.svg"><img src="assets/interests.svg" width="100%" alt="Projects I follow and contribute to, by area"></picture>
 
@@ -233,7 +237,7 @@
 
 </details>
 
-<picture><source media="(max-width: 700px)" srcset="assets/h-04-m.svg"><img src="assets/h-04.svg" width="100%" alt="04 How I work"></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/h-05-m.svg"><img src="assets/h-05.svg" width="100%" alt="05 How I work"></picture>
 
 - **Features and tasks first:** from each project's roadmap, gap list or maintainer-endorsed issues, checked to be unclaimed.
 - **Bugs, confirmed:** reproduced on the latest code before any change.
