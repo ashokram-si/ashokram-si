@@ -7,6 +7,7 @@
 <picture><source media="(max-width: 700px)" srcset="assets/h-01-m.svg"><img src="assets/h-01.svg" width="100%" alt="01 Contributor to"></picture>
 
 <p>
+<a href="https://github.com/meltano/meltano/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-meltano-meltano.svg" width="32%" alt="Meltano"></a>
 <a href="https://github.com/storytold/wordcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-wordcraft.svg" width="32%" alt="WordCraft"></a>
 <a href="https://github.com/storytold/lightcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-lightcraft.svg" width="32%" alt="LightCraft"></a>
 <a href="https://github.com/storytold/gridcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-gridcraft.svg" width="32%" alt="GridCraft"></a>
@@ -19,7 +20,6 @@
 <a href="https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-pdfcraft.svg" width="32%" alt="PdfCraft"></a>
 <a href="https://github.com/rerun-build/rerun/graphs/contributors"><img src="assets/tile-rerun-build-rerun.svg" width="32%" alt="Rerun"></a>
 <a href="https://github.com/storytold/figcraft/graphs/contributors"><img src="assets/tile-storytold-figcraft.svg" width="32%" alt="FigCraft"></a>
-<a href="https://github.com/meltano/meltano/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-meltano-meltano.svg" width="32%" alt="Meltano"></a>
 <a href="https://github.com/storytold/soundcraft/graphs/contributors"><img src="assets/tile-storytold-soundcraft.svg" width="32%" alt="SoundCraft"></a>
 <a href="https://github.com/storytold/vectorcraft/graphs/contributors"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
 <a href="https://github.com/storytold/designcraft/graphs/contributors"><img src="assets/tile-storytold-designcraft.svg" width="32%" alt="DesignCraft"></a>
@@ -49,6 +49,7 @@
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <img src="assets/logos/meltano.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Meltano</b><br><sub><a href="https://github.com/meltano/meltano/pull/10460">#10460</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | meltano state merge could take state from only one other state ID; it now merges several at once, in… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/storytold-wordcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>WordCraft</b><br><sub><a href="https://github.com/storytold/wordcraft/pull/7636">#7636</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | Read Mode could only reflow text into screen columns, so a form or newsletter couldn&#x27;t be read as it… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑23 |
 | <img src="assets/logos/storytold-lightcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>LightCraft</b><br><sub><a href="https://github.com/storytold/lightcraft/pull/4676">#4676</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Print dialog could only write a PDF; it now prints the pages as JPEG files for a lab or a client… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑23 |
 | <img src="assets/logos/storytold-gridcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>GridCraft</b><br><sub><a href="https://github.com/storytold/gridcraft/pull/4467">#4467</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A sheet name of 16 emoji passed the 31-character check but made an XLSX that Excel refuses, because… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑18 |
@@ -56,7 +57,6 @@
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/13098">#13098</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | useThisInClassMethods reported a method whose only this is in a parameter&#x27;s default value; parameters… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/13097">#13097</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | noUnknownTypeSelector reported the selectedcontent element of customizable &lt;select&gt; as unknown; the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
 | <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/11710">#11710</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | CREATE SEQUENCE ... START 1.5 or a value past bigint gave &quot;not supported&quot;; sequence options are now… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑11‑11 |
-| <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/11709">#11709</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | In tursopg, a cast to a type that doesn&#x27;t exist (&#x27;q&#x27;::nosuch) gave 0; it now fails with PostgreSQL&#x27;s… | <img src="assets/badge-closed.svg" height="22" alt="Closed"> | 2026‑11‑11 |
 
 <details><summary><b>Merged</b> · 24</summary>
 
@@ -89,10 +89,11 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 37</summary>
+<details><summary><b>In Review</b> · 38</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <img src="assets/logos/meltano.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Meltano</b><br><sub><a href="https://github.com/meltano/meltano/pull/10460">#10460</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | meltano state merge could take state from only one other state ID; it now merges several at once, in… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/storytold-wordcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>WordCraft</b><br><sub><a href="https://github.com/storytold/wordcraft/pull/7636">#7636</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | Read Mode could only reflow text into screen columns, so a form or newsletter couldn&#x27;t be read as it… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑23 |
 | <img src="assets/logos/storytold-lightcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>LightCraft</b><br><sub><a href="https://github.com/storytold/lightcraft/pull/4676">#4676</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | the Print dialog could only write a PDF; it now prints the pages as JPEG files for a lab or a client… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑23 |
 | <img src="assets/logos/storytold-gridcraft.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>GridCraft</b><br><sub><a href="https://github.com/storytold/gridcraft/pull/4467">#4467</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | A sheet name of 16 emoji passed the 31-character check but made an XLSX that Excel refuses, because… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑18 |
@@ -147,7 +148,7 @@
 
 </details>
 
-<sub>The latest 8 of 68, newest first. Open a status for its full list, or <a href="https://ashokram-si.github.io/#prs">filter and search them all on the site</a>. Every number links to the pull request.</sub>
+<sub>The latest 8 of 69, newest first. Open a status for its full list, or <a href="https://ashokram-si.github.io/#prs">filter and search them all on the site</a>. Every number links to the pull request.</sub>
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-04-m.svg"><img src="assets/h-04.svg" width="100%" alt="04 Projects I follow"></picture>
 
