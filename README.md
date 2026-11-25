@@ -173,14 +173,36 @@
 
 </details>
 
-<picture><source media="(max-width: 700px)" srcset="assets/h-05-m.svg"><img src="assets/h-05.svg" width="100%" alt="05 How I work"></picture>
+<picture><source media="(max-width: 700px)" srcset="assets/h-05-m.svg"><img src="assets/h-05.svg" width="100%" alt="05 Writing"></picture>
+
+I write up my merged pull requests: what broke, why it broke, and how the fix got through review, in plain words for anyone who knows basic coding.
+
+**Read on:** <a href="https://ashokramsi.hashnode.dev"><img src="assets/logos/blog-hashnode.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Hashnode</a> · <a href="https://dev.to/ashokramsi"><img src="assets/logos/blog-dev.png" width="20" height="20" align="absmiddle" alt="">&nbsp;DEV</a> · <a href="https://medium.com/@ashokramsi"><img src="assets/logos/blog-medium.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Medium</a> · <a href="https://ashokramsi.substack.com"><img src="assets/logos/blog-substack.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Substack</a> · <a href="https://devpost.com/ashokram-si"><img src="assets/logos/blog-devpost.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Devpost</a>
+
+**Latest posts**
+
+- [How I added dilation to average pooling in Burn](https://ashokramsi.hashnode.dev/burn-avg-pool-dilation)
+- [Why Grafana table gauge bars didn't match their values](https://ashokramsi.hashnode.dev/grafana-tableng-alignment)
+- [Why quarkus:dev ignored gRPC settings in application.properties](https://ashokramsi.hashnode.dev/quarkus-dev-mode-goal-order)
+- [Why first(s, typemax(Int)) returned an empty string in Julia](https://ashokramsi.hashnode.dev/julia-nextind-saturate)
+- [Why Biome's formatter broke negative interpolations in SCSS](https://ashokramsi.hashnode.dev/biome-scss-negative-interpolation)
+
+<picture><source media="(max-width: 700px)" srcset="assets/h-06-m.svg"><img src="assets/h-06.svg" width="100%" alt="06 Security research"></picture>
+
+I look for security bugs in bug bounty programs and open source projects, only in scope and under each program's rules, and I report them privately. A finding is listed here once the program has fixed it and made it public.
+
+**What I look for:** Access control · Authentication · Race conditions · SSRF · Source code review
+
+**Profiles:** <a href="https://hackerone.com/ashokram-si"><img src="assets/logos/bounty-hackerone.png" width="20" height="20" align="absmiddle" alt="">&nbsp;HackerOne</a> · <a href="https://bugcrowd.com/h/ashokram-si"><img src="assets/logos/bounty-bugcrowd.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Bugcrowd</a> · <a href="https://app.intigriti.com/profile/ashokramsi"><img src="assets/logos/bounty-intigriti.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Intigriti</a> · <a href="https://yeswehack.com/hunters/ashokram-si"><img src="assets/logos/bounty-yeswehack.png" width="20" height="20" align="absmiddle" alt="">&nbsp;YesWeHack</a> · <a href="https://bughunters.google.com/profile/ef6a8c6b-007b-4369-bae2-22a215a9071d"><img src="assets/logos/bounty-bughunters.png" width="20" height="20" align="absmiddle" alt="">&nbsp;Google Bug Hunters</a>
+
+<picture><source media="(max-width: 700px)" srcset="assets/h-07-m.svg"><img src="assets/h-07.svg" width="100%" alt="07 How I work"></picture>
 
 - **Features and tasks first:** from each project's roadmap, gap list or maintainer-endorsed issues, checked to be unclaimed.
 - **Bugs, confirmed:** reproduced on the latest code before any change.
 - **Tested:** every change ships with tests, plus the project's own lint, format and test gates.
 - **Small and focused:** one issue per pull request, the project's template filled in completely.
-- **Each project's rules:** conventions, changelogs and AI policies followed exactly.
-- **Transparent about AI:** AI assistance (Claude Code) only where a project allows it, disclosed as it asks.
+- **Each project's rules:** conventions, changelogs and contribution guides followed exactly.
+- **Security research, responsibly:** only targets in scope under each program's rules, reported privately, published only once fixed and disclosed.
 
 <a href="https://ashokram-si.github.io"><picture><source media="(max-width: 700px)" srcset="assets/site-m.svg"><img src="assets/site.svg" width="100%" alt="Enter the 3D portfolio"></picture></a>
 
