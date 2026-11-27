@@ -7,6 +7,8 @@
 <picture><source media="(max-width: 700px)" srcset="assets/h-01-m.svg"><img src="assets/h-01.svg" width="100%" alt="01 Contributor to"></picture>
 
 <p>
+<a href="https://github.com/usememos/memos/commits?author=ashokram-si"><img src="assets/tile-usememos-memos.svg" width="32%" alt="memos"></a>
+<a href="https://github.com/TryGhost/Ghost/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-tryghost-ghost.svg" width="32%" alt="Ghost"></a>
 <a href="https://github.com/makeplane/plane/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-makeplane-plane.svg" width="32%" alt="Plane"></a>
 <a href="https://github.com/meltano/meltano/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-meltano-meltano.svg" width="32%" alt="Meltano"></a>
 <a href="https://github.com/storytold/wordcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-wordcraft.svg" width="32%" alt="WordCraft"></a>
@@ -22,7 +24,7 @@
 <a href="https://github.com/rerun-build/rerun/graphs/contributors"><img src="assets/tile-rerun-build-rerun.svg" width="32%" alt="Rerun"></a>
 <a href="https://github.com/storytold/figcraft/graphs/contributors"><img src="assets/tile-storytold-figcraft.svg" width="32%" alt="FigCraft"></a>
 <a href="https://github.com/storytold/soundcraft/graphs/contributors"><img src="assets/tile-storytold-soundcraft.svg" width="32%" alt="SoundCraft"></a>
-<a href="https://github.com/storytold/vectorcraft/graphs/contributors"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
+<a href="https://github.com/storytold/vectorcraft/commits?author=ashokram-si"><img src="assets/tile-storytold-vectorcraft.svg" width="32%" alt="VectorCraft"></a>
 <a href="https://github.com/storytold/designcraft/graphs/contributors"><img src="assets/tile-storytold-designcraft.svg" width="32%" alt="DesignCraft"></a>
 <a href="https://github.com/storytold/deckcraft/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-storytold-deckcraft.svg" width="32%" alt="DeckCraft"></a>
 <a href="https://github.com/grafana/grafana/commits?author=ashokram-si"><img src="assets/tile-grafana-grafana.svg" width="32%" alt="Grafana"></a>
@@ -50,19 +52,20 @@
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6644">#6644</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Memo previews and titles showed markdown escapes and HTML entities as typed (Tom \&amp; Jerry, &amp;amp;); they… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑25 |
+| <b>Ghost</b><br><sub><a href="https://github.com/TryGhost/Ghost/pull/33288">#33288</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Signup cards created from HTML (Admin API, imports) lost their disclaimer and showed the subheader in… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑25 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10395">#10395</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Updating a work item, cycle, module, state or label could give it the same external id and source as… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10394">#10394</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | File uploads crashed on a size that wasn&#x27;t a number and accepted zero or negative sizes; eight upload… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10393">#10393</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Work item exports listed people who had been removed as assignees, and someone removed and added again… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10392">#10392</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | The work item search API and the app&#x27;s entity search crashed on a limit or count that wasn&#x27;t a positive… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10391">#10391</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Transferring work items to a cycle that doesn&#x27;t exist in the project crashed with a server error; it… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10385">#10385</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | self hosted Plane allowed a fixed 300 static file requests per IP per minute, so normal page loads… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
-| <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10384">#10384</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Moving work items to another cycle (&quot;Transfer work items&quot;) or converting a draft into a cycle saved… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
-| <img src="assets/logos/meltano.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Meltano</b><br><sub><a href="https://github.com/meltano/meltano/pull/10461">#10461</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | meltano run couldn&#x27;t narrow a pipeline to some streams the way meltano el can; it now takes --select… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 
-<details><summary><b>Merged</b> · 24</summary>
+<details><summary><b>Merged</b> · 25</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6644">#6644</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Memo previews and titles showed markdown escapes and HTML entities as typed (Tom \&amp; Jerry, &amp;amp;); they… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑25 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/13098">#13098</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | useThisInClassMethods reported a method whose only this is in a parameter&#x27;s default value; parameters… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/13097">#13097</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | noUnknownTypeSelector reported the selectedcontent element of customizable &lt;select&gt; as unknown; the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
 | <img src="assets/logos/tursodatabase.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Turso</b><br><sub><a href="https://github.com/tursodatabase/turso/pull/11705">#11705</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | An INSERT ... ON CONFLICT DO UPDATE with ascending keys could update a row twice or panic, because the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
@@ -90,10 +93,11 @@
 
 </details>
 
-<details><summary><b>In Review</b> · 46</summary>
+<details><summary><b>In Review</b> · 47</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <b>Ghost</b><br><sub><a href="https://github.com/TryGhost/Ghost/pull/33288">#33288</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Signup cards created from HTML (Admin API, imports) lost their disclaimer and showed the subheader in… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑25 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10395">#10395</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Updating a work item, cycle, module, state or label could give it the same external id and source as… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10394">#10394</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | File uploads crashed on a size that wasn&#x27;t a number and accepted zero or negative sizes; eight upload… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10393">#10393</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Work item exports listed people who had been removed as assignees, and someone removed and added again… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
@@ -157,7 +161,7 @@
 
 </details>
 
-<sub>The latest 8 of 77, newest first. Open a status for its full list, or <a href="https://ashokram-si.github.io/#prs">filter and search them all on the site</a>. Every number links to the pull request.</sub>
+<sub>The latest 8 of 79, newest first. Open a status for its full list, or <a href="https://ashokram-si.github.io/#prs">filter and search them all on the site</a>. Every number links to the pull request.</sub>
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-04-m.svg"><img src="assets/h-04.svg" width="100%" alt="04 Projects I follow"></picture>
 
@@ -169,7 +173,7 @@
 - **Developer tooling:** [Tauri](https://github.com/tauri-apps/tauri) · [oxc](https://github.com/oxc-project/oxc) · [Deno](https://github.com/denoland/deno) · [Mantine](https://github.com/mantinedev/mantine) · [Strapi](https://github.com/strapi/strapi) · [Knip](https://github.com/webpro-nl/knip) · [Prettier](https://github.com/prettier/prettier) · [Leptos](https://github.com/leptos-rs/leptos) · [Hugo](https://github.com/gohugoio/hugo) · [Quarkus](https://github.com/quarkusio/quarkus) · [Julia](https://github.com/JuliaLang/julia)
 - **AI agents &amp; LLM tooling:** [goose](https://github.com/aaif-goose/goose) · [promptfoo](https://github.com/promptfoo/promptfoo) · [crewAI](https://github.com/crewAIInc/crewAI) · [Haystack](https://github.com/deepset-ai/haystack) · [LocalAI](https://github.com/mudler/LocalAI) · [Phoenix](https://github.com/Arize-ai/phoenix) · [Burn](https://github.com/tracel-ai/burn)
 - **Data &amp; infrastructure:** [Turso](https://github.com/tursodatabase/turso) · [Valkey](https://github.com/valkey-io/valkey) · [Dapr](https://github.com/dapr/dapr) · [Meltano](https://github.com/meltano/meltano) · [marimo](https://github.com/marimo-team/marimo) · [PostHog](https://github.com/PostHog/posthog) · [Vector](https://github.com/vectordotdev/vector)
-- **Product apps:** [Plane](https://github.com/makeplane/plane)
+- **Product apps:** [Plane](https://github.com/makeplane/plane) · [memos](https://github.com/usememos/memos) · [Ghost](https://github.com/TryGhost/Ghost)
 
 </details>
 
@@ -181,11 +185,11 @@ I write up my merged pull requests: what broke, why it broke, and how the fix go
 
 **Latest posts**
 
+- [Why Knip reported Mastra's agent and tool files as unused](https://ashokramsi.hashnode.dev/knip-mastra-plugin)
 - [How I added dilation to average pooling in Burn](https://ashokramsi.hashnode.dev/burn-avg-pool-dilation)
 - [Why Grafana table gauge bars didn't match their values](https://ashokramsi.hashnode.dev/grafana-tableng-alignment)
 - [Why quarkus:dev ignored gRPC settings in application.properties](https://ashokramsi.hashnode.dev/quarkus-dev-mode-goal-order)
 - [Why first(s, typemax(Int)) returned an empty string in Julia](https://ashokramsi.hashnode.dev/julia-nextind-saturate)
-- [Why Biome's formatter broke negative interpolations in SCSS](https://ashokramsi.hashnode.dev/biome-scss-negative-interpolation)
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-06-m.svg"><img src="assets/h-06.svg" width="100%" alt="06 Security research"></picture>
 
