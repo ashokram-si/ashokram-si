@@ -7,7 +7,7 @@
 <picture><source media="(max-width: 700px)" srcset="assets/h-01-m.svg"><img src="assets/h-01.svg" width="100%" alt="01 Contributor to"></picture>
 
 <p>
-<a href="https://github.com/usememos/memos/commits?author=ashokram-si"><img src="assets/tile-usememos-memos.svg" width="32%" alt="memos"></a>
+<a href="https://github.com/usememos/memos/graphs/contributors"><img src="assets/tile-usememos-memos.svg" width="32%" alt="memos"></a>
 <a href="https://github.com/TryGhost/Ghost/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-tryghost-ghost.svg" width="32%" alt="Ghost"></a>
 <a href="https://github.com/makeplane/plane/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-makeplane-plane.svg" width="32%" alt="Plane"></a>
 <a href="https://github.com/meltano/meltano/pulls?q=is%3Apr+author%3Aashokram-si"><img src="assets/tile-meltano-meltano.svg" width="32%" alt="Meltano"></a>
@@ -52,19 +52,21 @@
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6666">#6666</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | The upgrade step that rebuilds every memo could skip one when a memo was deleted while it listed them… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑27 |
+| <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6667">#6667</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Inline code written over two lines kept the line break in memo previews and titles; it now reads as a… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑27 |
 | <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6644">#6644</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Memo previews and titles showed markdown escapes and HTML entities as typed (Tom \&amp; Jerry, &amp;amp;); they… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑25 |
 | <b>Ghost</b><br><sub><a href="https://github.com/TryGhost/Ghost/pull/33288">#33288</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Signup cards created from HTML (Admin API, imports) lost their disclaimer and showed the subheader in… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑25 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10395">#10395</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Updating a work item, cycle, module, state or label could give it the same external id and source as… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10394">#10394</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | File uploads crashed on a size that wasn&#x27;t a number and accepted zero or negative sizes; eight upload… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10393">#10393</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Work item exports listed people who had been removed as assignees, and someone removed and added again… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 | <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10392">#10392</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | The work item search API and the app&#x27;s entity search crashed on a limit or count that wasn&#x27;t a positive… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
-| <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10391">#10391</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Transferring work items to a cycle that doesn&#x27;t exist in the project crashed with a server error; it… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
-| <img src="assets/logos/makeplane.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Plane</b><br><sub><a href="https://github.com/makeplane/plane/pull/10385">#10385</a></sub> | <img src="assets/kind-feature.svg" width="114" height="24" alt="Feature"> | self hosted Plane allowed a fixed 300 static file requests per IP per minute, so normal page loads… | <img src="assets/badge-in-review.svg" height="22" alt="In Review"> | 2026‑11‑24 |
 
-<details><summary><b>Merged</b> · 25</summary>
+<details><summary><b>Merged</b> · 27</summary>
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contribution | Status | Date |
 |:--|:--|:--|:--|:--|
+| <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6666">#6666</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | The upgrade step that rebuilds every memo could skip one when a memo was deleted while it listed them… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑27 |
+| <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6667">#6667</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Inline code written over two lines kept the line break in memo previews and titles; it now reads as a… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑27 |
 | <b>memos</b><br><sub><a href="https://github.com/usememos/memos/pull/6644">#6644</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | Memo previews and titles showed markdown escapes and HTML entities as typed (Tom \&amp; Jerry, &amp;amp;); they… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑25 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/13098">#13098</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | useThisInClassMethods reported a method whose only this is in a parameter&#x27;s default value; parameters… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
 | <img src="assets/logos/biomejs.png" width="20" height="20" align="absmiddle" alt="">&nbsp;<b>Biome</b><br><sub><a href="https://github.com/biomejs/biome/pull/13097">#13097</a></sub> | <img src="assets/kind-bug-fix.svg" width="114" height="24" alt="Bug Fix"> | noUnknownTypeSelector reported the selectedcontent element of customizable &lt;select&gt; as unknown; the… | <img src="assets/badge-merged.svg" height="22" alt="Merged"> | 2026‑11‑11 |
@@ -161,7 +163,7 @@
 
 </details>
 
-<sub>The latest 8 of 79, newest first. Open a status for its full list, or <a href="https://ashokram-si.github.io/#prs">filter and search them all on the site</a>. Every number links to the pull request.</sub>
+<sub>The latest 8 of 81, newest first. Open a status for its full list, or <a href="https://ashokram-si.github.io/#prs">filter and search them all on the site</a>. Every number links to the pull request.</sub>
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-04-m.svg"><img src="assets/h-04.svg" width="100%" alt="04 Projects I follow"></picture>
 
@@ -185,11 +187,11 @@ I write up my merged pull requests: what broke, why it broke, and how the fix go
 
 **Latest posts**
 
+- [How one bad timezone string could stop Rerun's scheduler](https://ashokramsi.hashnode.dev/rerun-timezone-routines)
 - [Why Knip reported Mastra's agent and tool files as unused](https://ashokramsi.hashnode.dev/knip-mastra-plugin)
 - [How I added dilation to average pooling in Burn](https://ashokramsi.hashnode.dev/burn-avg-pool-dilation)
 - [Why Grafana table gauge bars didn't match their values](https://ashokramsi.hashnode.dev/grafana-tableng-alignment)
 - [Why quarkus:dev ignored gRPC settings in application.properties](https://ashokramsi.hashnode.dev/quarkus-dev-mode-goal-order)
-- [Why first(s, typemax(Int)) returned an empty string in Julia](https://ashokramsi.hashnode.dev/julia-nextind-saturate)
 
 <picture><source media="(max-width: 700px)" srcset="assets/h-06-m.svg"><img src="assets/h-06.svg" width="100%" alt="06 Security research"></picture>
 
